@@ -68,7 +68,7 @@
 }
 
 .cl-socialButtonsIconButton {
-  border: 3px solid #565761;
+  border: 3px solid #ffffff;
 }
 
 .cl-internal-wkkub3 {
@@ -77,6 +77,14 @@
 .cl-userButtonPopoverActionButton {
   color: white;
 }
+
+.cl-socialButtonsIconButton.cl-button.cl-socialButtonsIconButton__github.cl-button__github,
+.cl-socialButtonsIconButton.cl-button.cl-socialButtonsIconButton__google.cl-button__google {
+  background-color: white;
+}
+
+
+
 
 /* =============================== */
 
